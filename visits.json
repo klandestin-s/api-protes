@@ -1,11 +1,11 @@
 {
-  "total": 82,
+  "total": 83,
   "daily": {
     "2025-06-14": 27,
     "2025-06-22": 16,
     "2025-06-23": 18,
     "2025-06-24": 20,
-    "2025-06-25": 1
+    "2025-06-25": 2
   },
   "hourly": {
     "2025-06-14": {
@@ -40,11 +40,12 @@
       "16": 1
     },
     "2025-06-25": {
-      "5": 1
+      "5": 1,
+      "7": 1
     }
   },
   "monthly": {
-    "2025-06": 82
+    "2025-06": 83
   },
   "sources": {
     "https://olshop.snayderstore.x-vvip.cloud/visitors.html": 16,
@@ -69,6 +70,7 @@
     "https://snayderstore-web3-3mbj9ey4x-snayderss-projects.vercel.app/": 2,
     "https://snayderstore-web3-80s3idxg7-snayderss-projects.vercel.app/": 2,
     "https://snayderstore-web3-au6zwtte0-snayderss-projects.vercel.app/": 2,
-    "https://snayderstore-web3-84ua58lyd-snayderss-projects.vercel.app/": 2
+    "https://snayderstore-web3-84ua58lyd-snayderss-projects.vercel.app/": 2,
+    "https://snayderstore-web3-1ofathoy5-snayderss-projects.vercel.app/": 1
   }
 }
