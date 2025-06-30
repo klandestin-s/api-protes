@@ -106,5 +106,14 @@
     "rating": 5,
     "date": "2025-06-30",
     "verified": true
+  },
+  {
+    "id": "fr74fjfmj",
+    "name": "Bertnc",
+    "product": "Config + Xut Super",
+    "image": "https://raw.githubusercontent.com/klandestin-s/Cloud_v2/main/tmp/e7c8c805.jpg",
+    "rating": 5,
+    "date": "2025-06-30",
+    "verified": true
   }
 ]
