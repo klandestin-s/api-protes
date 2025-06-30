@@ -151,5 +151,14 @@
     "rating": 5,
     "date": "2025-06-30",
     "verified": true
+  },
+  {
+    "id": "r9r9pq0ib",
+    "name": "Edi",
+    "product": "Config + Xut Super",
+    "image": "https://raw.githubusercontent.com/klandestin-s/Cloud_v2/main/tmp/3b266b49.jpg",
+    "rating": 4,
+    "date": "2025-06-30",
+    "verified": true
   }
 ]
