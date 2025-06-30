@@ -169,5 +169,14 @@
     "rating": 5,
     "date": "2025-06-30",
     "verified": true
+  },
+  {
+    "id": "imasw98kp",
+    "name": "Ipul",
+    "product": "Config + Multi Xc v2",
+    "image": "https://raw.githubusercontent.com/klandestin-s/Cloud_v2/main/tmp/b8f3483f.jpg",
+    "rating": 5,
+    "date": "2025-06-30",
+    "verified": true
   }
 ]
