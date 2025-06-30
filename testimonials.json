@@ -205,5 +205,14 @@
     "rating": 4,
     "date": "2025-06-30",
     "verified": true
+  },
+  {
+    "id": "u17na2tyr",
+    "name": "Za Vlogger",
+    "product": "Config + Xut Super",
+    "image": "https://raw.githubusercontent.com/klandestin-s/Cloud_v2/main/tmp/4f17b5eb.jpg",
+    "rating": 5,
+    "date": "2025-06-30",
+    "verified": true
   }
 ]
