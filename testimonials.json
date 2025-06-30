@@ -79,5 +79,14 @@
     "rating": 4,
     "date": "2025-06-30",
     "verified": true
+  },
+  {
+    "id": "cr6yhka5p",
+    "name": "Rizal",
+    "product": "Config Vmess Vidio",
+    "image": "https://raw.githubusercontent.com/klandestin-s/Cloud_v2/main/tmp/6d46b2b4.jpg",
+    "rating": 4,
+    "date": "2025-06-30",
+    "verified": true
   }
 ]
