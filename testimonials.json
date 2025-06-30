@@ -196,5 +196,14 @@
     "rating": 5,
     "date": "2025-06-30",
     "verified": true
+  },
+  {
+    "id": "h7oh5hi6z",
+    "name": "Ando",
+    "product": "Config + Xut Super",
+    "image": "https://raw.githubusercontent.com/klandestin-s/Cloud_v2/main/tmp/57ec85d2.jpg",
+    "rating": 4,
+    "date": "2025-06-30",
+    "verified": true
   }
 ]
