@@ -52,5 +52,14 @@
     "rating": 5,
     "date": "2025-06-30",
     "verified": true
+  },
+  {
+    "id": "4489rcnqw",
+    "name": "Ririn",
+    "product": "Config + Multi Xc v1",
+    "image": "https://raw.githubusercontent.com/klandestin-s/Cloud_v2/main/tmp/6156995f.jpg",
+    "rating": 5,
+    "date": "2025-06-30",
+    "verified": true
   }
 ]
