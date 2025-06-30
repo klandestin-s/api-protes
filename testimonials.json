@@ -115,5 +115,14 @@
     "rating": 5,
     "date": "2025-06-30",
     "verified": true
+  },
+  {
+    "id": "4d5kpwlig",
+    "name": "Buyer",
+    "product": "Unli Turbo Multi Xc v1",
+    "image": "https://raw.githubusercontent.com/klandestin-s/Cloud_v2/main/tmp/e5e7e477.jpg",
+    "rating": 4,
+    "date": "2025-06-30",
+    "verified": true
   }
 ]
