@@ -178,5 +178,14 @@
     "rating": 5,
     "date": "2025-06-30",
     "verified": true
+  },
+  {
+    "id": "deo7b8dsg",
+    "name": "Feby",
+    "product": "Config Sg, Multi Xc",
+    "image": "https://raw.githubusercontent.com/klandestin-s/Cloud_v2/main/tmp/6985d860.jpg",
+    "rating": 4,
+    "date": "2025-06-30",
+    "verified": true
   }
 ]
