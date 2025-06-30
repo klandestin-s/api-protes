@@ -142,5 +142,14 @@
     "rating": 5,
     "date": "2025-06-30",
     "verified": true
+  },
+  {
+    "id": "dzeuhiooa",
+    "name": "Buyer",
+    "product": "SSH SG",
+    "image": "https://raw.githubusercontent.com/klandestin-s/Cloud_v2/main/tmp/63ece4d1.jpg",
+    "rating": 5,
+    "date": "2025-06-30",
+    "verified": true
   }
 ]
