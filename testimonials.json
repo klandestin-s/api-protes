@@ -331,5 +331,14 @@
     "rating": 5,
     "date": "2025-07-04",
     "verified": true
+  },
+  {
+    "id": "iz78aapc8",
+    "name": "Hilal",
+    "product": "Xut Super",
+    "image": "https://raw.githubusercontent.com/klandestin-s/Cloud_v2/main/tmp/5a3a0ec5.jpg",
+    "rating": 5,
+    "date": "2025-07-04",
+    "verified": true
   }
 ]
