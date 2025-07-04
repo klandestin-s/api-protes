@@ -277,5 +277,14 @@
     "rating": 5,
     "date": "2025-07-04",
     "verified": true
+  },
+  {
+    "id": "0dylrukvo",
+    "name": "Ando",
+    "product": "Xut Super",
+    "image": "https://raw.githubusercontent.com/klandestin-s/Cloud_v2/main/tmp/c4390411.jpg",
+    "rating": 4,
+    "date": "2025-07-04",
+    "verified": true
   }
 ]
