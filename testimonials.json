@@ -304,5 +304,14 @@
     "rating": 5,
     "date": "2025-07-04",
     "verified": true
+  },
+  {
+    "id": "pv8nfy4f1",
+    "name": "Nidzam",
+    "product": "Xut Super",
+    "image": "https://raw.githubusercontent.com/klandestin-s/Cloud_v2/main/tmp/486622c2.jpg",
+    "rating": 5,
+    "date": "2025-07-04",
+    "verified": true
   }
 ]
