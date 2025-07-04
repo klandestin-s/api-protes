@@ -232,5 +232,14 @@
     "rating": 5,
     "date": "2025-06-30",
     "verified": true
+  },
+  {
+    "id": "2kpri790o",
+    "name": "Ryo ",
+    "product": "Config + Xut Super",
+    "image": "https://raw.githubusercontent.com/klandestin-s/Cloud_v2/main/tmp/c0561f65.jpg",
+    "rating": 5,
+    "date": "2025-07-04",
+    "verified": true
   }
 ]
