@@ -376,5 +376,14 @@
     "rating": 5,
     "date": "2025-07-04",
     "verified": true
+  },
+  {
+    "id": "02l79vj77",
+    "name": "Buyer",
+    "product": "Config + Xut Super",
+    "image": "https://raw.githubusercontent.com/klandestin-s/Cloud_v2/main/tmp/dd0de150.jpg",
+    "rating": 5,
+    "date": "2025-07-04",
+    "verified": true
   }
 ]
