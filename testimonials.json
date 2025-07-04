@@ -286,5 +286,14 @@
     "rating": 4,
     "date": "2025-07-04",
     "verified": true
+  },
+  {
+    "id": "yqijti7o6",
+    "name": "Buyer",
+    "product": "Xut Super",
+    "image": "https://raw.githubusercontent.com/klandestin-s/Cloud_v2/main/tmp/72301325.jpg",
+    "rating": 4,
+    "date": "2025-07-04",
+    "verified": true
   }
 ]
