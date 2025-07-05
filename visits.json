@@ -1,5 +1,5 @@
 {
-  "total": 344,
+  "total": 345,
   "daily": {
     "2025-06-14": 27,
     "2025-06-22": 16,
@@ -15,7 +15,7 @@
     "2025-07-02": 20,
     "2025-07-03": 9,
     "2025-07-04": 13,
-    "2025-07-05": 4
+    "2025-07-05": 5
   },
   "hourly": {
     "2025-06-14": {
@@ -177,12 +177,12 @@
       "0": 1,
       "1": 1,
       "15": 1,
-      "16": 1
+      "16": 2
     }
   },
   "monthly": {
     "2025-06": 271,
-    "2025-07": 73
+    "2025-07": 74
   },
   "sources": {
     "https://olshop.snayderstore.x-vvip.cloud/visitors.html": 16,
@@ -222,6 +222,7 @@
     "https://snayderstore-olshop.x-vvip.cloud/?fbclid=IwZXh0bgNhZW0CMTEAAR5NKIpQZqcHlIwXUBoCoejy0fZwf-uWaGRQop55dQFWZwMeRW349aKe66e62Q_aem_MWwI3ipcfp4egVC5HQJgGQ": 1,
     "https://snayderstore-olshop.x-vvip.cloud/?fbclid=IwZXh0bgNhZW0CMTEAAR6N1doGI-jqFfU5W-u6tPkVCq7wZmrYzC1wn2OEv3rzo0vqnKDGyQh1LIZmig_aem_eQxfzkcBNoAhMuXgzJV4Ow": 1,
     "https://snayderstore-olshop.x-vvip.cloud/dowloads.html?fbclid=IwZXh0bgNhZW0CMTEAAR5cC7MyiLBxujYjflgSqC3B9-G557ho1mg2RH14R44HBjwYnyRPDddz64piyg_aem_6tp2lhhLrVwazyWYnFPh_w": 1,
-    "https://snayderstore-olshop.x-vvip.cloud/dowloads.html?fbclid=IwY2xjawLVyU9leHRuA2FlbQIxMQABHu9zNU89bF9IQDQbmQZLTofuUa9MhKqgoFzWi-GoueCVMaBQ4GDJbGiNH_Wi_aem_vukXhkKsi8F2_xDcjtjv9g": 1
+    "https://snayderstore-olshop.x-vvip.cloud/dowloads.html?fbclid=IwY2xjawLVyU9leHRuA2FlbQIxMQABHu9zNU89bF9IQDQbmQZLTofuUa9MhKqgoFzWi-GoueCVMaBQ4GDJbGiNH_Wi_aem_vukXhkKsi8F2_xDcjtjv9g": 1,
+    "https://snayderstore-olshop.x-vvip.cloud/dowloads.html?fbclid=IwY2xjawLVyv1leHRuA2FlbQIxMQABHu9zNU89bF9IQDQbmQZLTofuUa9MhKqgoFzWi-GoueCVMaBQ4GDJbGiNH_Wi_aem_vukXhkKsi8F2_xDcjtjv9g": 1
   }
 }
