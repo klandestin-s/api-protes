@@ -398,7 +398,7 @@
   },
   {
     "id": "prod_1748738879146_xb966gdh8",
-    "name": "RESELLER CONFIG PREMIUM",
+    "name": "RESELLER CONFIG PREMI",
     "image": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/5330638d.jpg",
     "price": 35000,
     "description": "→ HARGA JOIN RESELLER Rp 35.000 (Masa reseller 2 bulan, dapat 2 config gratis + Pembelian Lebih Cepat)\n→ PERPANJANG MASA RESESELLER 10K PERBULAN\n→ HARGA PERCONFIG RESELLER 5K, CONFIG SUDAH DISIAPKAN SIAP PAKAI.\n→ CONFIG KHUSUS UNTUK RESELLER GRATIS ( BUKAN KONSUMEN RESELLER )",
@@ -415,7 +415,10 @@
         "name": "→ HARGA PERPANJANG MASA RESELLER",
         "price": 10000
       }
-    ]
+    ],
+    "rating": 0,
+    "sold": 0,
+    "views": 0
   },
   {
     "id": "prod_1751996287315_0gc0iv0nk",
