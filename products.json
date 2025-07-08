@@ -413,5 +413,33 @@
         "price": 10000
       }
     ]
+  },
+  {
+    "id": "prod_1751996287315_0gc0iv0nk",
+    "name": "XUT SUPER",
+    "image": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/5d949438.jpg",
+    "price": 23000,
+    "rating": 5,
+    "sold": 57,
+    "views": 1107,
+    "description": "JEMBUD",
+    "packages": [
+      {
+        "name": "❒ RAM 1GB CPU1 BW1",
+        "price": 35000
+      },
+      {
+        "name": "❒ RAM 2GB CPU1 BW2",
+        "price": 40000
+      },
+      {
+        "name": "❒ RAM 4GB CPU2 BW4",
+        "price": 65000
+      },
+      {
+        "name": "❒ RAM 8GB CPU4 BW5",
+        "price": 80000
+      }
+    ]
   }
 ]
