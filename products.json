@@ -456,7 +456,24 @@
     "rating": 4.9,
     "sold": 102,
     "views": 204,
-    "description": "FUP 160- 190 GB, 1 BULAN ‼️.\n\n* Cocok Untuk Tkp Yang Perlu Gandeng.\n* Cocok Untuk Yang Sering Disconnect.\n* Cocok *( Semua TKP ).*\n\nPAKET INI TERSEDIA DAN UNOFFICIAL, GARANSI DAN NONGARANSI.",
-    "packages": []
+    "description": "FUP 160- 190 GB, 1 BULAN ‼️.\n\n* Cocok Untuk Tkp Yang Perlu Gandeng.\n* Cocok Untuk Yang Sering Disconnect.\n* Cocok *( Semua TKP ).*\n\nSemua Config Masa Aktifnya 1 Bulan. PAKET INI TERSEDIA GARANSI DAN NOGAR.",
+    "packages": [
+      {
+        "name": "❒ PAKET UNLI VIDIO NOGAR",
+        "price": 31000
+      },
+      {
+        "name": "❒ PAKET UNLI VIDIO NOGAR + CONFIG PREMI",
+        "price": 36000
+      },
+      {
+        "name": "❒ PAKET UNLI VIDIO GARANSI",
+        "price": 38000
+      },
+      {
+        "name": "❒ PAKET UNLI VIDIO GARANSI + CONFIG PREMI",
+        "price": 42000
+      }
+    ]
   }
 ]
