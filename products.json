@@ -540,7 +540,24 @@
     "rating": 5,
     "sold": 198,
     "views": 367,
-    "description": "FUP GEDE, UNLI TURBO SUPER .\n* Cocok Untuk Tkp Yang Perlu Gandeng.\n* Cocok Untuk Yang Sering Disconnect.\n* Cocok ( Semua TKP ).\n* Cocok pemakaian pribadi.\n\n- Xtra Unli Turbo Super ( 1 Paket Unlimited).\n* PAKET BERISIKAN UNLIMITED ( Wa, Line, Gojek, Fb Dan Instagram ).\n\nPAKET INIMEMILIKI GARANSI DAN NON GARANSI",
-    "packages": []
+    "description": "FUP GEDE, UNLI TURBO SUPER .\n* Cocok Untuk Tkp Yang Perlu Gandeng.\n* Cocok Untuk Yang Sering Disconnect.\n* Cocok ( Semua TKP ).\n* Cocok pemakaian pribadi.\n\n- Xtra Unli Turbo Super ( 1 Paket Unlimited).\n* PAKET BERISIKAN UNLIMITED ( Wa, Line, Gojek, Fb Dan Instagram ).\nSEMUA PAKET YANG DIUAL DISINI ( TIDAK MEMERLUKAN GANDENG PULSA DLL)\n\nPAKET INI MEMILIKI GARANSI DAN NON GARANSI",
+    "packages": [
+      {
+        "name": "❒ XUT SUPER NOGAR",
+        "price": 23000
+      },
+      {
+        "name": "❒ XUT SUPER NOGAR + CONFIG",
+        "price": 28000
+      },
+      {
+        "name": "❒ XUT SUPER GARANSI",
+        "price": 36000
+      },
+      {
+        "name": "❒ XUT SUPER GARANSI + CONFIG PREMI",
+        "price": 40000
+      }
+    ]
   }
 ]
