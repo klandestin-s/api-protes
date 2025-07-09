@@ -475,5 +475,33 @@
         "price": 42000
       }
     ]
+  },
+  {
+    "id": "prod_1752102665532_muufhqole",
+    "name": "UNLIMITED TURBO v2 full apps",
+    "image": "https://raw.githubusercontent.com/klandestin-s/Cloud_v2/main/tmp/89c7785f.jpeg",
+    "price": 35000,
+    "rating": 5,
+    "sold": 113,
+    "views": 209,
+    "description": "FUP BESAR DI BERBAGAI TKP ‼️ .\n* Cocok Untuk Tkp Yang Perlu Gandeng.\n* Cocok Untuk Yang Sering Disconnect.\n* Cocok ( Semua TKP ).\n\n- Xtra Unli Turbo Premium, Xtra Unli Turbo Super, Standard, Basic, Youtube, Tiktok, Netflix, Viu Dan Joox. ( 9 Paket Unlimited)\n* PAKET BERISIKAN UNLIMITED ( Netflix, Viu, Tiktok, Wa, Youtube, Line, Joox, Gojek, Fb, Dan Instagram )",
+    "packages": [
+      {
+        "name": "❒ PAKET UNLI NOGAR",
+        "price": 35000
+      },
+      {
+        "name": "❒ PAKET UNLI NOGAR + CONFIG PREMI",
+        "price": 40000
+      },
+      {
+        "name": "❒ PAKET UNLI GARANSI",
+        "price": 51000
+      },
+      {
+        "name": "❒ PAKET UNLI GARANSI + CONFIG PREMI",
+        "price": 56000
+      }
+    ]
   }
 ]
