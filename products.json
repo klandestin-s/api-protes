@@ -20,9 +20,12 @@
       },
       {
         "name": "❒ RAM 8GB CPU4 BW5",
-        "price": 80000
+        "price": 75000
       }
-    ]
+    ],
+    "rating": 0,
+    "sold": 0,
+    "views": 0
   },
   {
     "id": "prod_1748618457277_i94trer41",
