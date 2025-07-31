@@ -29,32 +29,35 @@
   },
   {
     "id": "prod_1748618457277_i94trer41",
-    "name": "SSH + CONFIG PREMIUM",
+    "name": "SSH + CONFIG PREMIUM IDN 🇮🇩",
     "image": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/f2e7c756.jpg",
     "price": 5000,
     "description": "• ping jaringan stabil, koneksi cepat.\n• fast connect, no bengong.\n• support tlpn & vc.\n• support game online and streaming.\n• anti reconnect atau disconnect.\n• boleh dibuatkan config apa aja.\n• bergaransi sesuai masa aktif config.\n• boleh trial sebelum order.\n• boleh request protocol & nama config.\n• 100% amanah dan sudah terpercaya.",
     "packages": [
       {
         "name": "❒ SSH + CONFIG 15Day 1Ip",
-        "price": 5000
+        "price": 7000
       },
       {
         "name": "❒ SSH + CONFIG 30Day 1Ip",
-        "price": 8000
-      },
-      {
-        "name": "❒ SSH + CONFIG 30Day 2Ip",
         "price": 10000
       },
       {
+        "name": "❒ SSH + CONFIG 30Day 2Ip",
+        "price": 12000
+      },
+      {
         "name": "❒ SSH + CONFIG 60Day 2Ip",
-        "price": 20000
+        "price": 21000
       },
       {
         "name": "❒ SSH + CONFIG 90Day 2Ip",
-        "price": 29000
+        "price": 30000
       }
-    ]
+    ],
+    "rating": 0,
+    "sold": 0,
+    "views": 0
   },
   {
     "id": "prod_1748660144778_92v2lj48o",
