@@ -574,7 +574,28 @@
     "rating": 0,
     "sold": 0,
     "views": 0,
-    "description": "ssjsn",
-    "packages": []
+    "description": "• ping jaringan stabil, koneksi cepat.\n• fast connect, no bengong.\n• support tlpn & vc.\n• support game online and streaming.\n• anti reconnect atau disconnect.\n• boleh dibuatkan config apa aja.\n• bergaransi sesuai masa aktif config.\n• boleh trial sebelum order.\n• boleh request protocol & nama config.\n• 100% amanah dan sudah terpercaya.",
+    "packages": [
+      {
+        "name": "❒ SSH + CONFIG 15Day 1Ip",
+        "price": 5000
+      },
+      {
+        "name": "❒ SSH + CONFIG 30Day 1Ip",
+        "price": 8000
+      },
+      {
+        "name": "❒ SSH + CONFIG 30Day 2Ip",
+        "price": 10000
+      },
+      {
+        "name": "❒ SSH + CONFIG 60Day 2Ip",
+        "price": 20000
+      },
+      {
+        "name": "❒ SSH + CONFIG 90Day 2Ip",
+        "price": 29000
+      }
+    ]
   }
 ]
