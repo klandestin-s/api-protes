@@ -494,7 +494,28 @@
     "rating": 1,
     "sold": 1,
     "views": 1,
-    "description": "piw",
-    "packages": []
+    "description": "autoscript tunneling, untuk kebutuhan dan cocok bagi yang ingin berjualan dengan protocol lengkap, bisa dijual lagi dan, script ini open source. tersedia juga untuk jasa recode juga ya..",
+    "packages": [
+      {
+        "name": "❒ AUTOSCRIPT ONLY",
+        "price": 350000
+      },
+      {
+        "name": "❒ AUTOSCRIPT+BOT SELL",
+        "price": 600000
+      },
+      {
+        "name": "❒ AUTOSCRIPT ONLY+RECODE",
+        "price": 430000
+      },
+      {
+        "name": "❒ AUTOSCRIPT+BOT SELL+RECODE",
+        "price": 68000
+      },
+      {
+        "name": "❒ JASA RECODE AUTOSCRIPT",
+        "price": 95000
+      }
+    ]
   }
 ]
