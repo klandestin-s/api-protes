@@ -517,5 +517,21 @@
         "price": 95000
       }
     ]
+  },
+  {
+    "id": "prod_1755491011139_gnwm0j4sh",
+    "name": "YOUTUBE PREMIUM ",
+    "image": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/d5fcbc10.jpg",
+    "price": 5000,
+    "rating": 0,
+    "sold": 0,
+    "views": 0,
+    "description": "YouTube premium via invite. perbulan dengan harga terjangkau. yuk cek ketersediaan nya. langsung order.",
+    "packages": [
+      {
+        "name": "YouTube Premium, 1bulan",
+        "price": 5000
+      }
+    ]
   }
 ]
