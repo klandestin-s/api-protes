@@ -430,7 +430,7 @@
     "id": "prod_1752085636126_bfzb3l39d",
     "name": "XTRA UNLIMITED TURBO VIDIO",
     "image": "https://raw.githubusercontent.com/klandestin-s/Cloud_v2/main/tmp/60cdaa3c.jpeg",
-    "price": 31000,
+    "price": 30000,
     "rating": 5,
     "sold": 501,
     "views": 1084,
@@ -438,7 +438,7 @@
     "packages": [
       {
         "name": "❒ PAKET UNLI VIDIO NOGAR",
-        "price": 31000
+        "price": 30000
       },
       {
         "name": "❒ PAKET UNLI VIDIO NOGAR + CONFIG PREMI",
