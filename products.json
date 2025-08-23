@@ -538,7 +538,7 @@
     "id": "prod_1755944808100_p05h9qftt",
     "name": "Unli Xc Double YouTube",
     "image": "https://raw.githubusercontent.com/klandestin-s/Cloud_v2/main/tmp/796b5172.jpg",
-    "price": 69000,
+    "price": 75000,
     "rating": 5,
     "sold": 70,
     "views": 1002,
@@ -546,11 +546,11 @@
     "packages": [
       {
         "name": "Unli Xc Double Yt Resmi",
-        "price": 69000
+        "price": 75000
       },
       {
         "name": "Unli Xc Double Yt Resmi+Config",
-        "price": 77000
+        "price": 83000
       }
     ]
   }
