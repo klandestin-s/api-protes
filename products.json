@@ -525,5 +525,25 @@
         "price": 84000
       }
     ]
+  },
+  {
+    "id": "prod_1758339388114_rm2pboq6o",
+    "name": "Bizz Starter/ Tayo",
+    "image": "https://raw.githubusercontent.com/klandestin-s/Cloud_v2/main/tmp/4f598202.jpg",
+    "price": 65000,
+    "rating": 4,
+    "sold": 28,
+    "views": 108,
+    "description": "unoficial ",
+    "packages": [
+      {
+        "name": "biz starter + config",
+        "price": 79000
+      },
+      {
+        "name": "biz starter",
+        "price": 67000
+      }
+    ]
   }
 ]
